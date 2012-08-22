@@ -1,0 +1,8 @@
+@import "compass";
+
+.sample-aui-validator-taglib-portlet {
+	.form {
+		padding-top: 10px;
+	}
+	
+}
