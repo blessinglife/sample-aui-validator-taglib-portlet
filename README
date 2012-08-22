@@ -1,0 +1,25 @@
+/** Copyright (c) 2012 Drew A. Blessing. All rights reserved.
+ *
+ * This library is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation; either version 2.1 of the License, or (at your option)
+ * any later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+ * details.
+ */
+
+Sample AUI Validator Taglib Portlet
+
+Compatible with Liferay 6.1.1 GA2.  Not tested with other versions.
+
+Author: Drew A. Blessing
+Date: August 21, 2012
+
+This portlet was written to give a working example of how the Alloy UI validator taglib works.  It was created in conjunction with blog post http://theblessinglife.com/technical-blog/-/blogs/alloy-form-validator-taglib.
+
+This package contains both the source code and a deployable WAR file. To deploy a working example simply drop the .war file in your Liferay hot deploy directory.
+
+NOTE: I am providing this portlet in hopes of helping others. I do not mind if you copy, post, share this package as long as proper credit is given. If you find this helpful, please pass it along.
